@@ -1,6 +1,6 @@
 {
     "name" : "undirender",
-    "version" : "0.0.0",
+    "version" : "0.1.0",
     "description" : "render undirected graphs in the terminal",
     "main" : "index.js",
     "directories" : {
